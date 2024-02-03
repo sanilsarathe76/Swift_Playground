@@ -8,5 +8,8 @@
         <page name='LeapYearSolution'/>
         <page name='EggTimer'/>
         <page name='Clousers'/>
+        <page name='Extensions'/>
+        <page name='Loops'/>
+        <page name='Fibonacci_Fact_Prime'/>
     </pages>
 </playground>
